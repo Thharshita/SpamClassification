@@ -1,4 +1,4 @@
-```<h1>For basic NLP revision, one can go through TokeStemLemBagTfid.ipynb file. Here u will get familiar with Tokenization, Stemming, Lemmatization, Tf-Idf .
+For basic NLP revision, one can go through TokeStemLemBagTfid.ipynb file. Here u will get familiar with Tokenization, Stemming, Lemmatization, Tf-Idf .
 
 SpamClassifier --- Here we have taken SMSSpamCollection as our dataset which have SMS that are either spam or not spam. Using this dataset, we have created
-a model using NLP functions that classify the messages as Spam or not Spam and has 98% of accuracy.<h1>
+a model using NLP functions that classify the messages as Spam or not Spam and has 98% of accuracy.
